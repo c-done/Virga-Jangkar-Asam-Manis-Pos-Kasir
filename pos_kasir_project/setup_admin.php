@@ -1,5 +1,5 @@
 <?php
-// Jalankan sekali dari browser: http://localhost/pos_kasir/setup_admin.php lalu HAPUS file ini setelah akun dibuat.
+
 require __DIR__.'/config/koneksi.php';
 $msg = '';
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

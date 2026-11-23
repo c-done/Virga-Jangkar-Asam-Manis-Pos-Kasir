@@ -1,0 +1,11 @@
+setelah sudah mendownload folder,
+Untuk masuk dan menggunakan POS kasir , Nyalakan Apache dan Mysql menggunakan xampp control panel , 
+nyalakan dan gunakan search engine pilihan seperti google chrome dan search "localhost/phpmyadmin",
+
+lalu pilih pilihan import di bagian header, lalu ke lokasi folder database
+"C:\xampp\htdocs\Virga-Jangkar-Asam-Manis-Pos-Kasir-main\pos_kasir_project\database" ,dan import database "projek_pos_kasir_kosong.sql".
+
+setelah sudah mengiport database search "localhost/Virga-Jangkar-Asam-Manis-Pos-Kasir-main/"
+dan pilih "pos_kasir_project" untuk masuk ke dalam web.
+
+
